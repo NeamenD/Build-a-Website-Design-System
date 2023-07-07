@@ -1,0 +1,106 @@
+.container {
+    border: 2px solid #a2a2a6;
+    padding: 10px;
+    margin: 10px auto;
+}
+
+div {
+    display: block;
+}
+body{
+    font-family: "Nunito Sans", sans-serif;
+    margin: 0 10%;
+}
+
+.color-container{
+    display: inline;
+
+}
+
+.cool-blue{
+    background-color: #2d5dcc;
+    color: #fff;
+}
+
+.color-panel{
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+}
+.pink{
+    background-color: #d957d9;
+    color: black;
+}
+
+.mint-green{
+    background-color: #4fe0b0;
+}
+
+.beige{
+    background-color: #efd9ca;
+}
+
+.source-code-pre{
+    text-decoration: underline;
+    font-family: 'Source Code Pro', monospace;
+    font-weight: 500;
+}
+
+.font-type-1{
+    font-family: 'Source Code Pro',monospace;
+    font-style: normal;
+}
+
+
+.bold-font-type-2{
+    font-family: 'Source Code Pro', sans-serif,monospace;
+    font-weight: 800;
+}
+
+.italic-font-type-3{
+    font-family: 'Source Code Pro', sans-serif,monospace;
+    font-style: italic;
+}
+.font-label-Noto{
+    text-decoration: underline;
+    font-family: "Noto Sans Ethiopic", sans-serif, monospace;
+    font-weight: 500;
+}
+
+.Noto-font{
+    font-family: "Noto Sans Ethiopic";
+    font-style: normal;
+}
+
+.bold-Noto{
+    font-family: 'Noto Sans Ethiopic';
+    font-weight: 800;
+}
+
+.italic-Noto{
+    font-family: 'Noto Sans Ethiopic';
+    font-style: italic;
+}
+
+.font-label{
+    font-family: 'Oswald', sans-serif;
+    text-decoration: underline;
+    font-weight: 500;
+
+}
+
+.Oswald-font{
+    font-family: 'Oswald', sans-serif;
+    font-style: normal;
+}
+
+.bold-Oswald{
+    font-family: 'Oswald', sans-serif;
+    font-weight: 800;
+}
+
+.italic-Oswald{
+    font-family: 'Oswald', sans-serif;
+    font-style: italic;
+}
